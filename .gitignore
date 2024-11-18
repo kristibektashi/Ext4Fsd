@@ -4,3 +4,6 @@ Release/
 *.vcxproj.user
 Ext2Fsd-setup.exe
 */cab/
+Ext2Mgr/*.log
+Ext2Srv/*.log
+Ext4Fsd/*.log
